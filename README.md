@@ -17,7 +17,7 @@
 
 **Keywords:** Front-end Developer | Mobile App Development | Web Development | UX/UI Design | React | Javascript | HTML | CSS 
 
-## About 🇪🇨:
+## About :ecuador:
 Senior student of computer science. Currently working on individual projects for personal growth, improving skills in application development with React. Passionate about design, Data Science, Machine Learning and Open Source. Also, I have some experience in mobile and web application development.
 
 ## Communities :dancers:
