@@ -1,5 +1,6 @@
 # Hi, I'm Luis Enrique 👋
-**Social Networks:** <a href="https://www.linkedin.com/in/luis-enrique-ortiz-rivera-96046b214/">
+<h2 align="center">Contact me on</h2>
+<a href="https://www.linkedin.com/in/luis-enrique-ortiz-rivera-96046b214/">
   <img align="left" alt="Luis Ortiz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Leor06760157">
