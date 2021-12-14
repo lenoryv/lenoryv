@@ -39,6 +39,21 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### My latest projects
+
+<a href="https://github.com/WEGFan/codestats-profile-readme">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
+</a>
+<a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
+</a>
+
+### Recently I'm coding in...
+
+<a href="https://codestats.net/users/WEGFan">
+  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+</a>
+
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
 
