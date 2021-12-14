@@ -17,13 +17,12 @@
 
 **Keywords:** Front-end Developer | Mobile App Development | Web Development | UX/UI Design | React | Javascript | HTML | CSS 
 
-## About :🇪🇨:
+## About 🇪🇨:
 Senior student of computer science. Currently working on individual projects for personal growth, improving skills in application development with React. Passionate about design, Data Science, Machine Learning and Open Source. Also, I have some experience in mobile and web application development.
 
 ## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Colaborador en el [Proyecto Ascendere](https://innovaciondocente.utpl.edu.ec) (Co-fundador) as desarrollador mobile and diseñador UX/UI. 
-- Equipo E-sport IndevaGame
+- Collaborator in the [Ascendere Project](https://innovaciondocente.utpl.edu.ec) (Co-Founder) as mobile developer and UX/UI designer. 
+- E-sport IndevaGame Team
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
