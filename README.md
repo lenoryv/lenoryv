@@ -73,7 +73,7 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
          <a href="https://www.instagram.com/madebygaurav">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.behance.net/gauravghongde">
+         <a href="https://www.behance.net/luisortiz43">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
          </a>
          <a href="mailto:7gaurav.ghongde@gmail.com">
