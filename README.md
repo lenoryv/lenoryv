@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Leor's github stats](https://github-readme-stats.vercel.app/api?username=leor0104&show_icons=true)
+
 <!--
 **leor0104/leor0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
