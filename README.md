@@ -1,5 +1,5 @@
 # Hi, I'm Luis Enrique 👋
-
+**Social Networks:**
 <a href="https://www.linkedin.com/in/luis-enrique-ortiz-rivera-96046b214/">
   <img align="left" alt="Luis Ortiz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,7 +12,8 @@
 <a href="https://www.instagram.com/uxuileor/">
   <img align="left" alt="Leor UX/UI's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br>
+</br>
 **Keywords:** Front-end Developer | Mobile App Development | Web Development | UX/UI Design | React | Javascript | HTML | CSS 
 
 ## About :sunglasses:
