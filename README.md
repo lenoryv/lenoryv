@@ -117,20 +117,16 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
          </a>
       </h2>
-      
       <details align="center">
          <summary><b>More About Me</b><br></summary>
             <div>
                <b>
                   <h3>My Stats</h3>
-              
-                  </a>
                </b>
             </div>
             <div>
                <b>
                   <h3>My Spotify</h3>
-                  </a>
                </b>
             </div>
       </details>
