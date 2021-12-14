@@ -17,13 +17,13 @@
 
 **Keywords:** Front-end Developer | Mobile App Development | Web Development | UX/UI Design | React | Javascript | HTML | CSS 
 
-## About :sunglasses:
+## About :🇪🇨:
 Senior student of computer science. Currently working on individual projects for personal growth, improving skills in application development with React. Passionate about design, Data Science, Machine Learning and Open Source. Also, I have some experience in mobile and web application development.
 
 ## Communities :dancers:
 - Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+- Colaborador en el [Proyecto Ascendere](https://innovaciondocente.utpl.edu.ec) (Co-fundador) as desarrollador mobile and diseñador UX/UI. 
+- Equipo E-sport IndevaGame
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
