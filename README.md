@@ -44,13 +44,12 @@ Senior student of computer science. Currently working on individual projects for
 - Bootstrap
 - MongoDB
 
-
 ### My latest projects
 
-<a href="https://github.com/WEGFan/codestats-profile-readme">
+<a href="https://github.com/leor0104/FunCooking">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
 </a>
-<a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
+<a href="https://github.com/leor0104/Autodeploy-React">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
 </a>
 
