@@ -26,10 +26,7 @@ Senior student of computer science. Currently working on individual projects for
 
 ## Skills :fire:
 **Languages:**
-- Java
-- TypeScript
-- JavaScript
-- Python
+- Java - TypeScript - JavaScript - Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
