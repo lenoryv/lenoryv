@@ -42,6 +42,9 @@ Senior student of computer science. Currently working on individual projects for
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=howydo-site" alt="howydo-site readme" />
 </a>
 
+<br>
+</br>
+
 <details align="center">
   <summary><b>More About Me</b><br></summary>
 
