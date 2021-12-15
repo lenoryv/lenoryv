@@ -31,7 +31,7 @@ Senior student of computer science. Currently working on individual projects for
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 **Frameworks or Technologies :**  
-- React Naative - NextJs - Expo React - HTML - CSS - Firebase - Angular - Bootstrap - MongoDB
+- React Native - Flutter - NextJs - Expo React - HTML - CSS - Firebase - Bootstrap - MongoDB
 
 ## My latest projects 🖥️
 
@@ -47,20 +47,18 @@ Senior student of computer science. Currently working on individual projects for
 
 <details align="left">
   <summary><b>More About Me</b><br></summary>
+  
+## To do list
+- [ ] Angular
+- [x] NextJS
+- [x] Personal Brand
+- [ ] Tensorflow
 
 ### Recently I'm coding in...
 
-<a href="https://codestats.net/users/WEGFan">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
+<a href="https://codestats.net/users/leor0104">
+  <img src='https://codestats-readme.leor0104.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Leor's Code::Stats history graph" />
 </a>
-
-## To do list
-- [x] Ruby공부
-- [ ] 헤더파일 정의하고 사용하는 법 익히기 (cpp)
-- [ ] Spring boot 책 읽고 공부
-- [ ] jQuery 생활코딩 강의
-- [ ] 정규표현식이 뭔지 공부해보기
-- [x] ps 코테 연습
 
 ##  Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
