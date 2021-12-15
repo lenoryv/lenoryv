@@ -31,15 +31,7 @@ Senior student of computer science. Currently working on individual projects for
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 **Frameworks or Technologies :**  
-- React Naative
-- NextJs
-- Expo React
-- HTML
-- CSS
-- Firebase
-- Angular 
-- Bootstrap
-- MongoDB
+- React Naative - NextJs - Expo React - HTML - CSS - Firebase - Angular - Bootstrap - MongoDB
 
 ### My latest projects
 
@@ -47,7 +39,7 @@ Senior student of computer science. Currently working on individual projects for
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=FunCooking" alt="FunCooking readme" />
 </a>
 <a href="https://github.com/leor0104/Autodeploy-React">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=Geometry-Dash-Menu-Music-Randomizer" alt="Geometry-Dash-Menu-Music-Randomizer" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=Autodeploy-React" alt="Autodeploy-React readme" />
 </a>
 
 ### Recently I'm coding in...
