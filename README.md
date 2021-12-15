@@ -46,7 +46,7 @@ Senior student of computer science. Currently working on individual projects for
 </br>
 
 <details align="left">
-  <summary><b>More About Me</b><br></summary>
+  <summary><b><h2>More About Me</h2></b><br></summary>
   
 ## To do list
 - [ ] Angular
