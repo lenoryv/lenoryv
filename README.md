@@ -54,7 +54,7 @@ Senior student of computer science. Currently working on individual projects for
 - [x] Personal Brand
 - [ ] Tensorflow
 
-### My Stats
+## My Stats
 
 <a href="https://github.com/WEGFan">
   <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
@@ -64,7 +64,7 @@ Senior student of computer science. Currently working on individual projects for
 
 <div align="center">
 
-### Made with ❤️ by Leor!
+# Made with ❤️ by Leor!
 
 </div>
 
