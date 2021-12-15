@@ -54,57 +54,17 @@ Senior student of computer science. Currently working on individual projects for
 - [x] Personal Brand
 - [ ] Tensorflow
 
-### Recently I'm coding in...
+### My Stats
 
-<a href="https://codestats.net/users/leor0104">
-  <img src='https://codestats-readme.leor0104.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Leor's Code::Stats history graph" />
+<a href="https://github.com/WEGFan">
+  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
 </a>
 
-##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/ashwanisng) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
-
-<h2 align="cente">Contact me on</h2>
-      <h2 align="center">
-         <a href="https://twitter.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.linkedin.com/in/gauravghongde">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.instagram.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.behance.net/luisortiz43">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
-         </a>
-         <a href="mailto:7gaurav.ghongde@gmail.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://telegram.me/gsg7397">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://discord.gg/2RHSUwy">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://play.google.com/store/apps/dev?id=7300960281868524728">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
-         </a>
-      </h2>
-            <div>
-               <b>
-                  <h3>My Stats</h3>
-               </b>
-            </div>
-            <div>
-               <b>
-                  <h3>My Spotify</h3>
-               </b>
-            </div>
 </details>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Made with ❤️ by Leor!
 
 </div>
 
