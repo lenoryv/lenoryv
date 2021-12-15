@@ -33,7 +33,7 @@ Senior student of computer science. Currently working on individual projects for
 **Frameworks or Technologies :**  
 - React Naative - NextJs - Expo React - HTML - CSS - Firebase - Angular - Bootstrap - MongoDB
 
-### My latest projects
+## My latest projects 🖥️
 
 <a href="https://github.com/leor0104/FunCooking">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=FunCooking" alt="FunCooking readme" />
