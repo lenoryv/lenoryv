@@ -64,7 +64,7 @@ Senior student of computer science. Currently working on individual projects for
 
 <div align="center">
 
-# Made with ❤️ by Leor!
+**Made with ❤️ by Leor!**
 
 </div>
 
