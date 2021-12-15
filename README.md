@@ -31,7 +31,7 @@ Senior student of computer science. Currently working on individual projects for
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 **Frameworks or Technologies :**  
-- React Native - Flutter - NextJs - Expo React - HTML - CSS - Firebase - Bootstrap - MongoDB
+- React Native - Flutter - NextJs - Expo React - Firebase - Bootstrap - MongoDB
 
 ## My latest projects 🖥️
 
@@ -56,8 +56,8 @@ Senior student of computer science. Currently working on individual projects for
 
 ## My Stats
 
-<a href="https://github.com/WEGFan">
-  <img src="https://github-readme-stats.vercel.app/api?username=WEGFan&show_icons=true" alt="WEGFan's GitHub Stats" />
+<a href="https://github.com/leor0104">
+  <img src="https://github-readme-stats.vercel.app/api?username=leor0104&show_icons=true" alt="Leor's GitHub Stats" />
 </a>
 
 </details>
