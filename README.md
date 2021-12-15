@@ -38,8 +38,8 @@ Senior student of computer science. Currently working on individual projects for
 <a href="https://github.com/leor0104/FunCooking">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=FunCooking" alt="FunCooking readme" />
 </a>
-<a href="https://github.com/leor0104/Autodeploy-React">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=Autodeploy-React" alt="Autodeploy-React readme" />
+<a href="https://github.com/leor0104/howydo-site">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=howydo-site" alt="howydo-site readme" />
 </a>
 
 ### Recently I'm coding in...
