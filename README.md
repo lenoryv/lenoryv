@@ -24,16 +24,12 @@ Senior student of computer science. Currently working on individual projects for
 - Collaborator in the [Ascendere Project](https://innovaciondocente.utpl.edu.ec) (Co-Founder) as mobile developer and UX/UI designer. 
 - E-sport IndevaGame Team
 
-## Technologies :fire:
-- Data Analysis with **Python**.
-- Data Science.
-- Mobile application development using **Android (Java)**.
-- Python.
+## Skills :fire:
+**Languages:**
 - Java
-- Competitive Programming.
-- Machine Learning
-- Deep Learning
-
+- TypeScript
+- JavaScript
+- Python
 **Languages and Tools:**  
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
