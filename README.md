@@ -15,7 +15,7 @@
 <br>
 </br>
 
-**Keywords:** Front-end Developer | Mobile App Development | Web Development | UX/UI Design | React | Javascript | HTML | CSS 
+**Keywords:** Front-end Developer | Mobile App Development | Web Development | UX/UI Design | React | Typescript | HTML | CSS 
 
 ## About me 🤵
 Senior student of computer science. Currently working on individual projects for personal growth, improving skills in application development with React. Passionate about design, Data Science, Machine Learning and Open Source. Also, I have some experience in mobile and web application development.
@@ -25,21 +25,21 @@ Senior student of computer science. Currently working on individual projects for
 - E-sport IndevaGame Team
 
 ## Skills :fire:
+**Frameworks or Technologies :**  
+- React Native - Flutter - NextJs - Expo React - Firebase - Bootstrap - MongoDB
 **Languages:**
+
 - Java - TypeScript - JavaScript - Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-**Frameworks or Technologies :**  
-- React Native - Flutter - NextJs - Expo React - Firebase - Bootstrap - MongoDB
 
 ## My latest projects 🖥️
 
 <a href="https://github.com/leor0104/FunCooking">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=FunCooking" alt="FunCooking readme" />
 </a>
-<a href="https://github.com/leor0104/to-do-list">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=to-do-list" alt="to-do-list readme" />
+<a href="https://github.com/leor0104/avo-store">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=avo-store" alt="avo-store readme" />
 </a>
 
 <br>
