@@ -26,10 +26,11 @@ Senior student of computer science. Currently working on individual projects for
 
 ## Skills :fire:
 **Frameworks or Technologies :**  
-- React Native - Flutter - NextJs - Expo React - Firebase - Bootstrap - MongoDB
+- React - NextJs - React Native - Ionic 4 - Firebase - Bootstrap - MongoDB
+
 **Languages:**
 
-- Java - TypeScript - JavaScript - Python
+- TypeScript - JavaScript - Java - Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
