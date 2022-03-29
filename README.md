@@ -37,10 +37,10 @@ Senior student of computer science. Currently working on individual projects for
 ## My latest projects 🖥️
 
 <a href="https://github.com/lenoryv/FunCooking">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=FunCooking" alt="FunCooking readme" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=lenoryv&repo=FunCooking" alt="FunCooking readme" />
 </a>
 <a href="https://github.com/lenoryv/avo-store">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=avo-store" alt="avo-store readme" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=lenoryv&repo=avo-store" alt="avo-store readme" />
 </a>
 
 <br>
@@ -58,7 +58,7 @@ Senior student of computer science. Currently working on individual projects for
 ## My Stats
 
 <a href="https://github.com/leor0104">
-  <img src="https://github-readme-stats.vercel.app/api?username=leorlenoryv&show_icons=true" alt="Leor's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lenoryv&show_icons=true" alt="Leor's GitHub Stats" />
 </a>
 
 </details>
