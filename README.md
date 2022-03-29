@@ -32,14 +32,14 @@ Senior student of computer science. Currently working on individual projects for
 
 - TypeScript - JavaScript - Java - Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leor0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoryv&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## My latest projects 🖥️
 
-<a href="https://github.com/leor0104/FunCooking">
+<a href="https://github.com/lenoryv/FunCooking">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=FunCooking" alt="FunCooking readme" />
 </a>
-<a href="https://github.com/leor0104/avo-store">
+<a href="https://github.com/lenoryv/avo-store">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=leor0104&repo=avo-store" alt="avo-store readme" />
 </a>
 
@@ -58,7 +58,7 @@ Senior student of computer science. Currently working on individual projects for
 ## My Stats
 
 <a href="https://github.com/leor0104">
-  <img src="https://github-readme-stats.vercel.app/api?username=leor0104&show_icons=true" alt="Leor's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leorlenoryv&show_icons=true" alt="Leor's GitHub Stats" />
 </a>
 
 </details>
@@ -72,7 +72,7 @@ Senior student of computer science. Currently working on individual projects for
 
 
 <!--
-**leor0104/leor0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lenoryv/lenoryv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
