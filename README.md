@@ -6,9 +6,6 @@
 <a href="https://twitter.com/lenoryv">
   <img align="left" alt="Luis Enrique Ortiz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.behance.net/luisortiz43">
-  <img align="left" alt="Luis's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
-</a>
 <a href="https://www.instagram.com/lenoryv/">
   <img align="left" alt="Leor UX/UI's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -33,18 +30,6 @@ Senior student of computer science. Currently working on individual projects for
 - TypeScript - JavaScript - Java - Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoryv&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-## My latest projects 🖥️
-
-<a href="https://github.com/lenoryv/howydo">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=lenoryv&repo=howydo" alt="Howydo readme" />
-</a>
-<a href="https://github.com/lenoryv/avo-store">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=lenoryv&repo=avo-store" alt="avo-store readme" />
-</a>
-
-<br>
-</br>
 
 <details align="left">
   <summary><b>More About Me</b><br></summary>
