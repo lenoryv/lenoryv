@@ -25,9 +25,9 @@ Currently leading **Cafrilosa Digital** — turning traditional animal processin
 
 ## About Me ⚡
 
-Soy **Leor**, el developer que no solo escribe código… **construye sistemas que cambian industrias**.  
+Developer que no solo escribe código… **construye sistemas que cambian industrias**.  
 
-En **Cafrilosa** trabajo como **Full Stack Developer** creando la plataforma **Cafrilosa Digital**, integrando **IoT** en tiempo real para automatizar el faenamiento de animales. Conecto balanzas inteligentes, genero etiquetas Agrocalidad automáticamente y sincronizo todo con la nube.  
+En **Cafrilosa** trabajo como **Full Stack Developer** en la plataforma **Cafrilosa Digital**, integrando **IoT** en tiempo real para automatizar el faenamiento de animales. Conecto balanzas inteligentes, genero etiquetas Agrocalidad automáticamente y sincronizo todo con la nube.  
 
 De Gemelos Digitales para ciudades inteligentes a transformación BPM de procesos administrativos… siempre elevando el estándar.
 
