@@ -1,7 +1,7 @@
 # Hi, I'm Luis Enrique (Leor) 👑
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=29&duration=1600&pause=600&color=00F5FF&center=true&vCenter=true&width=720&lines=Software+Developer+%7C+Digital+Twins+Architect;React+%26+TypeScript+GOAT;Mobile+First+%7C+UX+Visionary;Building+the+Future+of+Smart+Factories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=1800&pause=700&color=00FF9D&center=true&vCenter=true&width=740&lines=Full+Stack+Developer+%7C+IoT+Architect;Digital+Twin+Pioneer;Driving+Industrial+Digital+Transformation;BPM+%26+Process+Automation+Expert" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,64 +20,51 @@
 
 ---
 
-**Software Developer specialized in Digital Twins • Process Automation • Smart Factories**  
-Currently scoring goals at **Cafrilosa** — pioneering digital transformation in Ecuador.
+**Full Stack Developer specialized in IoT, Digital Twins & Industrial Digital Transformation**  
+Currently leading **Cafrilosa Digital** — turning traditional animal processing into a smart, automated factory in Ecuador.
 
 ## About Me ⚡
 
-Soy **Leor**, el Software Developer que está cambiando el juego.  
-En **Cafrilosa** construyo **Gemelos Digitales** que revolucionan procesos industriales, automatización inteligente, microservicios e IoT.  
+Soy **Leor**, el developer que no solo escribe código… **construye sistemas que cambian industrias**.  
 
-Del React ecosystem y mobile development al mundo de las Smart Factories.  
-Co-Founder del **Ascendere Project** y certificado por la **ITU** en Digital Twins for Smart Cities.  
+En **Cafrilosa** trabajo como **Full Stack Developer** creando la plataforma **Cafrilosa Digital**, integrando **IoT** en tiempo real para automatizar el faenamiento de animales. Conecto balanzas inteligentes, genero etiquetas Agrocalidad automáticamente y sincronizo todo con la nube.  
 
-No solo escribo código… **construyo legado**.
+De Gemelos Digitales para ciudades inteligentes a transformación BPM de procesos administrativos… siempre elevando el estándar.
 
 ## Current Role 🏆
-**Software Developer | Digital Twins**  
-**Cafrilosa** — Loja, Ecuador  
-Desarrollando modelos operativos de vanguardia con tecnología Digital Twin para la industria alimentaria.
+**Analista de Sistemas | Full Stack Developer**  
+**Cafrilosa** — Loja, Ecuador (Enero 2024 - Presente)
 
-## Skills & Technologies 🔥
+- Líder técnico de la plataforma **Cafrilosa Digital**
+- Integración completa de dispositivos **IoT** para registro automático de pesos y impresión de etiquetas (CSOM - Agrocalidad)
+- Desarrollo con **Node-RED + Firebase** para captura en tiempo real y sincronización en la nube
+- Incremento significativo de eficiencia, precisión y velocidad en la línea de producción
 
-**Core Stack**  
-`React` `Next.js` `React Native` `TypeScript` `Tailwind`
+## Key Experience & Wins
 
-**Digital Twins & IoT**  
-`Digital Twins` `Process Automation` `Microservices` `Smart Cities`
+**Digital Twin Developer** (Independiente, 2022 - 2024)  
+Conceptualicé y desarrollé un modelo operativo avanzado de Gemelos Digitales urbanos (GIS + BIM + ArcGIS). Creé data lake, modelo semántico con ontologías y representaciones LoD1 para Smart Cities.
 
-**Mobile & Cloud**  
-`Ionic` `Firebase` `MongoDB`
+**BPM Consultant**  
+- **C.E.M. Lojagas** (2025): Digitalización completa de procesos críticos mediante metodología BPM  
+- **UTPL** (2024): Rediseño y automatización del área Administrativa-Financiera con implementación de Motor BPM
 
-**Languages**  
-`TypeScript` `JavaScript` `Python` `Java`
+**Co-Founder** — Ascendere Project (Mobile Developer & UX/UI Designer)
+
+## Skills & Arsenal 🔥
+
+**Full Stack**  
+`React` `Next.js` `React Native` `TypeScript` `Node.js` `Firebase`
+
+**Industrial & Smart Tech**  
+`IoT` `Node-RED` `Digital Twins` `ArcGIS` `BPMN` `Process Automation` `GIS & BIM`
+
+**Others**  
+`MongoDB` `Ionic` `Microservices`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoryv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Highlights 🏅
-- **ITU Certified** — Digital Twins for Smart Cities  
-- Múltiples certificaciones Platzi en Advanced React, Next.js & Frontend Architecture  
-- Co-Founder & Lead Mobile/UX — Ascendere Project
-
-<details>
-  <summary><b>More About Me</b></summary>
-
-### Education
-Computer Science — Universidad Técnica Particular de Loja (UTPL)
-
-### Currently Leveling Up
-- Arquitecturas avanzadas de Digital Twins  
-- Machine Learning aplicado a industria  
-- Sistemas escalables de última generación
-
-</details>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenoryv&show_icons=true&theme=radical&hide_border=true" alt="Leor's Stats" />
-</div>
-
-<div align="center">
-  <b>The King is here.</b><br>
-  <b>Made with passionby Leor</b><br>
+  <b>Made with passion by Leor</b><br>
   <b>SIUUU! 🚀</b>
 </div>
