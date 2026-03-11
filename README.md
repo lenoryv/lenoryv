@@ -1,72 +1,83 @@
-# Hi, I'm Luis Enrique 👋
+# Hi, I'm Luis Enrique (Leor) 👑
 
-<a href="https://www.linkedin.com/in/luis-enrique-ortiz-rivera-96046b214/">
-  <img align="left" alt="Luis Ortiz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/lenoryv">
-  <img align="left" alt="Luis Enrique Ortiz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/lenoryv/">
-  <img align="left" alt="Leor UX/UI's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=29&duration=1600&pause=600&color=00F5FF&center=true&vCenter=true&width=720&lines=Software+Developer+%7C+Digital+Twins+Architect;React+%26+TypeScript+GOAT;Mobile+First+%7C+UX+Visionary;Building+the+Future+of+Smart+Factories" alt="Typing SVG" />
+</div>
+
 <br>
-</br>
 
-**Keywords:** Front-end Developer | Mobile App Development | Web Development | UX/UI Design | React | Typescript | HTML | CSS 
+<p align="center">
+  <a href="https://www.linkedin.com/in/leormade/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/lenoryv">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/lenoryv/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-## About me 🤵
-Senior student of computer science. Currently working on individual projects for personal growth, improving skills in application development with React. Passionate about design, Data Science, Machine Learning and Open Source. Also, I have some experience in mobile and web application development.
+---
 
-## Communities :dancers:
-- Collaborator in the [Ascendere Project](https://innovaciondocente.utpl.edu.ec) (Co-Founder) as mobile developer and UX/UI designer. 
-- E-sport IndevaGame Team
+**Software Developer specialized in Digital Twins • Process Automation • Smart Factories**  
+Currently scoring goals at **Cafrilosa** — pioneering digital transformation in Ecuador.
 
-## Skills :fire:
-**Frameworks or Technologies :**  
-- React - NextJs - React Native - Ionic 4 - Firebase - Bootstrap - MongoDB
+## About Me ⚡
 
-**Languages:**
+Soy **Leor**, el Software Developer que está cambiando el juego.  
+En **Cafrilosa** construyo **Gemelos Digitales** que revolucionan procesos industriales, automatización inteligente, microservicios e IoT.  
 
-- TypeScript - JavaScript - Java - Python
+Del React ecosystem y mobile development al mundo de las Smart Factories.  
+Co-Founder del **Ascendere Project** y certificado por la **ITU** en Digital Twins for Smart Cities.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoryv&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+No solo escribo código… **construyo legado**.
 
-<details align="left">
-  <summary><b>More About Me</b><br></summary>
-  
-## To do list
-- [ ] Angular
-- [x] NextJS
-- [x] Personal Brand
-- [ ] Tensorflow
+## Current Role 🏆
+**Software Developer | Digital Twins**  
+**Cafrilosa** — Loja, Ecuador  
+Desarrollando modelos operativos de vanguardia con tecnología Digital Twin para la industria alimentaria.
 
-## My Stats
+## Skills & Technologies 🔥
 
-<a href="https://github.com/leor0104">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenoryv&show_icons=true" alt="Leor's GitHub Stats" />
-</a>
+**Core Stack**  
+`React` `Next.js` `React Native` `TypeScript` `Tailwind`
+
+**Digital Twins & IoT**  
+`Digital Twins` `Process Automation` `Microservices` `Smart Cities`
+
+**Mobile & Cloud**  
+`Ionic` `Firebase` `MongoDB`
+
+**Languages**  
+`TypeScript` `JavaScript` `Python` `Java`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoryv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Highlights 🏅
+- **ITU Certified** — Digital Twins for Smart Cities  
+- Múltiples certificaciones Platzi en Advanced React, Next.js & Frontend Architecture  
+- Co-Founder & Lead Mobile/UX — Ascendere Project
+
+<details>
+  <summary><b>More About Me</b></summary>
+
+### Education
+Computer Science — Universidad Técnica Particular de Loja (UTPL)
+
+### Currently Leveling Up
+- Arquitecturas avanzadas de Digital Twins  
+- Machine Learning aplicado a industria  
+- Sistemas escalables de última generación
 
 </details>
 
 <div align="center">
-
-**Made with ❤️ by Leor!**
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lenoryv&show_icons=true&theme=radical&hide_border=true" alt="Leor's Stats" />
 </div>
 
-
-
-<!--
-**lenoryv/lenoryv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <b>The King is here.</b><br>
+  <b>Made with passionby Leor</b><br>
+  <b>SIUUU! 🚀</b>
+</div>
