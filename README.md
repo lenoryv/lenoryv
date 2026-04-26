@@ -1,4 +1,4 @@
-# Hi, I'm Luis Enrique (Leor) 👑
+# Hi, I'm Luis Enrique
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=1800&pause=700&color=00FF9D&center=true&vCenter=true&width=740&lines=Full+Stack+Developer+%7C+IoT+Architect;Digital+Twin+Pioneer;Driving+Industrial+Digital+Transformation;BPM+%26+Process+Automation+Expert" alt="Typing SVG" />
